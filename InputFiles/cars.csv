@@ -1,0 +1,151 @@
+car_id,user_id,brand,model,body_type,transmission_type,manufacture_year,color,mileage
+1,34,Toyota,X6,Coupe,Manual,2015,Hijau,165266
+2,51,Mitsubishi,X6,Wagon,Manual,2023,Emas,190257
+3,100,Porsche,Taycan,Coupe,Manual,2012,Nila,28168
+4,129,Mercedes-Benz,488,MPV,Manual,2015,Merah jambu,173368
+5,148,Porsche,Terios,Crossover,Manual,2012,Emas,81591
+6,9,BMW,Wraith,Crossover,Automatic,2021,Hitam,187900
+7,121,Subaru,Calya,SUV,Automatic,2021,Merah,140866
+8,121,Suzuki,Aventador,MPV,Manual,2013,Kuning,15805
+9,107,Honda,MX-5,SUV,Automatic,2019,Biru laut,9281
+10,127,Mercedes-Benz,Urus,Coupe,Manual,2018,Biru laut,160586
+11,49,Honda,Cruze,Crossover,Automatic,2015,Merah marun,197909
+12,30,Nissan,Camry,Coupe,Manual,2021,Putih,14600
+13,16,Toyota,Lancer,Sedan,Automatic,2023,Merah jambu,85794
+14,8,Ford,Juke,Coupe,Manual,2017,Ungu tua,195904
+15,66,Mitsubishi,March,Sedan,Automatic,2022,Magenta,45651
+16,45,Mercedes-Benz,Lancer,Hatchback,Automatic,2019,Abu-abu,94350
+17,144,Isuzu,Forester,Wagon,Manual,2020,Hijau tua,75623
+18,132,Nissan,Phantom,Wagon,Manual,2010,Biru,33800
+19,117,Subaru,Outlander,Wagon,Automatic,2009,Putih,195664
+20,70,Nissan,Civic,SUV,Automatic,2013,Merah bata,25829
+21,79,Honda,Terios,SUV,Automatic,2014,Biru dongker,92634
+22,19,Rolls-Royce,BRZ,MPV,Automatic,2023,Merah bata,141457
+23,59,Porsche,Panamera,MPV,Automatic,2019,Biru laut,117368
+24,133,Mitsubishi,Pajero,MPV,Automatic,2019,Jingga,150478
+25,78,Toyota,Dawn,Sedan,Automatic,2014,Merah jambu,37631
+26,120,Audi,Taycan,Sedan,Manual,2018,Putih,100533
+27,84,Mitsubishi,Ciaz,Sedan,Automatic,2023,Merah bata,49395
+28,18,Lamborghini,WRX,Coupe,Manual,2018,Biru dongker,83561
+29,121,BMW,Huracan,MPV,Automatic,2012,Merah marun,84594
+30,93,Subaru,Fortuner,Wagon,Manual,2015,Biru,186406
+31,75,Mitsubishi,Ghost,Sedan,Manual,2016,Coklat,23485
+32,136,Suzuki,Macan,Crossover,Manual,2021,Jingga,75863
+33,1,Lamborghini,WRX,MPV,Automatic,2016,Abu-abu,163091
+34,49,Nissan,Malibu,SUV,Manual,2019,Emas,166496
+35,141,Honda,S-Class,SUV,Automatic,2023,Ungu tua,112047
+36,22,BMW,Triton,Coupe SUV,Manual,2013,Merah jambu,21547
+37,100,Daihatsu,Taycan,SUV,Manual,2013,Jingga,32371
+38,66,BMW,BR-V,Hatchback,Automatic,2024,Merah bata,198390
+39,97,Ferrari,D-Max,SUV,Manual,2014,Putih,178116
+40,1,Mazda,Mustang,Sedan,Manual,2022,Hitam,180446
+41,57,Ford,Dawn,Wagon,Automatic,2015,Merah marun,96382
+42,48,Mitsubishi,Ertiga,MPV,Automatic,2019,Putih,20189
+43,33,Mitsubishi,LS,MPV,Manual,2024,Merah jambu,100131
+44,81,Porsche,Explorer,Wagon,Automatic,2010,Merah marun,172670
+45,28,Lamborghini,Roma,Coupe SUV,Manual,2020,Hijau muda,164738
+46,9,Mitsubishi,Pajero,Coupe SUV,Manual,2015,Coklat tua,77186
+47,134,Isuzu,Panamera,Coupe SUV,Automatic,2011,Merah,15877
+48,77,Mercedes-Benz,Juke,Hatchback,Automatic,2009,Merah marun,173413
+49,138,Ford,Vitara,SUV,Manual,2022,Koral,104219
+50,60,Mitsubishi,Dawn,Coupe,Manual,2013,Ungu tua,180126
+51,34,Audi,Mazda2,Coupe SUV,Automatic,2013,Abu-abu,197513
+52,35,Rolls-Royce,GLE,Coupe SUV,Manual,2014,Coklat tua,86308
+53,4,Subaru,Urus,Hatchback,Manual,2018,Nila,162879
+54,30,Rolls-Royce,A4,Wagon,Automatic,2022,Hijau,114667
+55,23,Audi,Aventador,Crossover,Manual,2021,Kuning,187706
+56,91,Lexus,Huracan,Hatchback,Manual,2015,Perak,43291
+57,9,BMW,A4,Coupe,Manual,2010,Zaitun,14333
+58,118,Mitsubishi,Ayla,Coupe,Automatic,2014,Kuning,161505
+59,89,Daihatsu,Jazz,MPV,Manual,2019,Coklat,66672
+60,2,Ferrari,Aventador,SUV,Manual,2021,Merah bata,88823
+61,2,Honda,Colorado,Coupe SUV,Automatic,2022,Ungu tua,198882
+62,65,Audi,Q5,Coupe SUV,Manual,2020,Coklat,196884
+63,73,Mercedes-Benz,Taycan,MPV,Automatic,2024,Ungu,87014
+64,122,Rolls-Royce,Cruze,Crossover,Manual,2018,Ungu,147759
+65,66,Suzuki,Accord,Coupe,Manual,2021,Putih,6884
+66,128,Honda,Wraith,SUV,Manual,2010,Magenta,191125
+67,101,Mazda,BR-V,Sedan,Automatic,2017,Coklat,51540
+68,103,Toyota,Roma,Wagon,Automatic,2013,Merah bata,87447
+69,74,Nissan,GLE,Hatchback,Manual,2018,Biru muda,86536
+70,106,Lamborghini,Avanza,MPV,Automatic,2009,Hijau,86612
+71,8,Toyota,Civic,Hatchback,Automatic,2012,Jingga,44023
+72,57,Lexus,Malibu,Wagon,Automatic,2018,Ungu,146171
+73,54,Subaru,Elf,Coupe SUV,Automatic,2023,Jingga,51394
+74,93,Ford,Mazda3,Crossover,Automatic,2018,Emas,7806
+75,70,Honda,X5,Coupe SUV,Manual,2012,Coklat tua,56022
+76,30,Nissan,Serena,Crossover,Manual,2012,Hitam,188644
+77,82,Mitsubishi,Triton,Coupe,Automatic,2015,Biru muda,37986
+78,118,Subaru,Outlander,Coupe SUV,Manual,2019,Perak,56911
+79,39,Rolls-Royce,GLE,Sedan,Manual,2018,Biru dongker,80904
+80,28,Honda,Mazda6,SUV,Automatic,2023,Hitam,84011
+81,102,Chevrolet,A8,Crossover,Manual,2013,Coklat,69105
+82,96,Chevrolet,Mirage,Crossover,Automatic,2018,Merah bata,119186
+83,124,Chevrolet,D-Max,Wagon,Automatic,2023,Hijau tua,128527
+84,116,Chevrolet,Mustang,Sedan,Automatic,2024,Coklat,25606
+85,106,Suzuki,F-150,MPV,Manual,2023,Hitam,95793
+86,57,Mitsubishi,GLE,SUV,Automatic,2016,Hijau tua,178944
+87,121,BMW,Phantom,Wagon,Manual,2018,Jingga,114954
+88,6,Rolls-Royce,S-Class,SUV,Automatic,2009,Ungu tua,164291
+89,3,Mercedes-Benz,Pajero,Coupe SUV,Automatic,2017,Merah bata,67486
+90,47,Honda,Cruze,Sedan,Manual,2021,Biru,104554
+91,129,Mercedes-Benz,BRZ,Wagon,Automatic,2011,Coklat,158995
+92,133,Isuzu,Macan,Sedan,Automatic,2009,Hijau tua,93154
+93,145,Suzuki,Avanza,Wagon,Manual,2024,Putih,39083
+94,38,Suzuki,3 Series,Wagon,Manual,2010,Biru laut,11150
+95,145,BMW,Escape,SUV,Automatic,2013,Abu-abu,74263
+96,97,Audi,F8 Tributo,Sedan,Automatic,2015,Magenta,143830
+97,3,Lexus,MU-X,Wagon,Manual,2022,Emas,159449
+98,85,Rolls-Royce,D-Max,Coupe SUV,Automatic,2015,Hitam,178312
+99,28,Mercedes-Benz,Dawn,Hatchback,Manual,2013,Koral,102377
+100,121,Subaru,Traverse,SUV,Automatic,2017,Koral,130405
+101,9,BMW,Lancer,SUV,Automatic,2020,Biru dongker,34634
+102,107,BMW,D-Max,Coupe,Manual,2012,Coklat,139487
+103,27,Mercedes-Benz,X-Trail,MPV,Automatic,2010,Koral,127464
+104,65,Ford,MX-5,Hatchback,Automatic,2019,Biru laut,156840
+105,127,Isuzu,Baleno,Coupe,Manual,2017,Ungu tua,170566
+106,70,Mitsubishi,Mazda6,Crossover,Manual,2009,Biru dongker,90169
+107,8,Mitsubishi,Phantom,MPV,Automatic,2020,Magenta,119669
+108,104,Lexus,CR-V,Coupe SUV,Automatic,2017,Hijau,74484
+109,60,Honda,Fortuner,Coupe,Manual,2019,Coklat,170780
+110,13,Nissan,Luxio,Coupe SUV,Manual,2014,Abu-abu,17556
+111,66,Rolls-Royce,488,MPV,Automatic,2020,Merah jambu,71148
+112,56,Porsche,Elf,Crossover,Automatic,2024,Merah jambu,62519
+113,24,Mitsubishi,Colorado,Wagon,Manual,2015,Hijau muda,89058
+114,60,Porsche,LS,Crossover,Manual,2012,Biru,185641
+115,101,Lamborghini,Explorer,Hatchback,Automatic,2022,Merah marun,149749
+116,35,Isuzu,Malibu,Wagon,Automatic,2011,Ungu tua,124960
+117,9,Chevrolet,ES,Wagon,Automatic,2012,Magenta,4264
+118,29,Ford,Jazz,Coupe,Automatic,2012,Putih,104179
+119,88,Ferrari,Huracan,Wagon,Automatic,2012,Biru dongker,59592
+120,50,Rolls-Royce,Juke,Crossover,Automatic,2013,Ungu,113867
+121,39,Suzuki,Phantom,Hatchback,Manual,2017,Kuning,187660
+122,81,Ford,GLS,MPV,Manual,2021,Nila,44758
+123,133,Nissan,Phantom,Wagon,Automatic,2015,Merah,71210
+124,126,Chevrolet,Luxio,Hatchback,Manual,2015,Abu-abu,182297
+125,90,Honda,Ayla,Sedan,Manual,2023,Kuning,134178
+126,31,Honda,Malibu,Hatchback,Manual,2012,Merah jambu,196890
+127,12,Audi,Forester,Coupe SUV,Automatic,2021,Hitam,39745
+128,36,Toyota,Luxio,MPV,Automatic,2020,Jingga,69456
+129,133,Mitsubishi,Yaris,Sedan,Manual,2010,Coklat tua,82113
+130,68,Rolls-Royce,Ciaz,SUV,Manual,2020,Merah jambu,128761
+131,43,Mazda,X6,Sedan,Automatic,2013,Merah bata,18782
+132,79,Mitsubishi,Sirion,Coupe SUV,Automatic,2014,Merah bata,127889
+133,23,Honda,Mirage,SUV,Manual,2021,Biru muda,70238
+134,28,Isuzu,Cruze,Hatchback,Automatic,2013,Coklat tua,114597
+135,120,Mazda,7 Series,Sedan,Automatic,2009,Hijau tua,113419
+136,107,Lexus,Escape,MPV,Automatic,2019,Magenta,70825
+137,115,Lamborghini,CR-V,Coupe SUV,Automatic,2013,Biru laut,77653
+138,41,Nissan,Portofino,Wagon,Manual,2024,Hijau,158815
+139,77,Suzuki,Aventador,Crossover,Automatic,2024,Merah bata,90713
+140,13,Lamborghini,A6,Hatchback,Automatic,2017,Jingga,132616
+141,122,Ford,Outback,SUV,Automatic,2018,Biru dongker,148430
+142,142,Porsche,CX-5,Crossover,Automatic,2009,Hitam,91355
+143,147,Porsche,D-Max,SUV,Manual,2016,Zaitun,36823
+144,133,Subaru,A6,Crossover,Manual,2015,Ungu tua,164031
+145,103,Mitsubishi,E-Class,Hatchback,Automatic,2012,Perak,9909
+146,34,Suzuki,Focus,Hatchback,Automatic,2015,Kuning,113108
+147,112,Chevrolet,Macan,MPV,Manual,2023,Merah,44130
+148,147,Ferrari,Mazda6,Coupe,Automatic,2024,Hijau muda,153149
+149,39,Mercedes-Benz,Traverse,Wagon,Automatic,2022,Perak,14579
+150,141,Rolls-Royce,GLS,Coupe SUV,Manual,2018,Merah bata,118276
